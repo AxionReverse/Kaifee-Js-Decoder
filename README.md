@@ -18,5 +18,6 @@ pkg install nodejs
 
 # give storage permission
 termux-setup-storage
+
 # usages
 node decoder.js <inputFile.js> <outputFile.js>
