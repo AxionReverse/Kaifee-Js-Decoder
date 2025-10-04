@@ -5,11 +5,23 @@ Node.js decoder for emoji-mapped obfuscation. Payloads protected by Kaifee via e
   <h1 style="font-size:24px; color:#FF6719; text-shadow:2px 2px 4px rgba(0,0,0,0.5);">Decoder</h1>
 </div>
 
-## Installation (Termux / Android)
+### Original code
+![Original code](https://raw.githubusercontent.com/AxionReverse/Kaifee-Js-Decoder/main/original.png)
+
+*This image shows the original source (example):*
+console.log("Hello");
+
+### Protected code
+![Original code](https://raw.githubusercontent.com/AxionReverse/Kaifee-Js-Decoder/main/protected.png)
+
+*This image shows the protected source*
+
+```bash
+
+## Installation Decoder (Termux / Android)
 
 Open Termux and run:
 
-```bash
 # update & upgrade
 apt update && apt upgrade -y
 
