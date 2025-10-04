@@ -8,7 +8,7 @@ Node.js decoder for emoji-mapped obfuscation. Payloads protected by Kaifee via e
 ### Original code
 ![Original code](https://raw.githubusercontent.com/AxionReverse/Kaifee-Js-Decoder/main/original.png)
 
-*This image shows the original source (example):*
+*This image shows the original source, example:*
 console.log("Hello");
 
 ### Protected code
